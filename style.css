@@ -1,6 +1,10 @@
-table{
-	width: 80%;
+caption {
+		color: red;
+		font: sans-serif;
+		font-size: 16pt;
 }
-td.imagenmineral {
-	width: 100px;
+
+img {
+	width: 20px;
+	height: 20px;
 }
